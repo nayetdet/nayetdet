@@ -25,15 +25,9 @@
 ###
 
 <div align="center">
-  <div>
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=nayetdet&theme=react&hide_border=true" width="380" height="150" alt="streak graph" />
-  </div>
-  <div>
-    <img src="https://github-readme-stats.vercel.app/api?username=nayetdet&theme=react&show_icons=true&hide_border=true" width="380" height="150" alt="stats graph" />
-  </div>
-  <div>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nayetdet&theme=react&show_icons=true&hide_border=true&layout=compact" width="380" height="150" alt="languages graph" />
-  </div>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nayetdet&theme=react&hide_border=true" alt="streak graph" />
+  <img src="https://github-readme-stats.vercel.app/api?username=nayetdet&theme=react&show_icons=true&hide_border=true" alt="stats graph" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nayetdet&theme=react&show_icons=true&hide_border=true&layout=compact" alt="languages graph" />
 </div>
 
 ###
