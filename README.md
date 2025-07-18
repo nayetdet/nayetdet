@@ -26,7 +26,7 @@
 
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=nayetdet&theme=react&hide_border=true" alt="streak graph" />
-  <img src="https://github-readme-stats.vercel.app/api?username=nayetdet&theme=react&show_icons=true&hide_border=true" alt="stats graph" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nayetdet&theme=react&show_icons=true&hide_border=true&layout=compact" alt="languages graph" />
 </div>
 
 ###
