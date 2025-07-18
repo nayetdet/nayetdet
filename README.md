@@ -4,7 +4,7 @@
 
 ###
 
-<h1 align="center">🧑‍💻 Nayetdet</h1>
+<h1 align="center">🧑‍💻 João Pedro Moreira</h1>
 
 ###
 
@@ -25,15 +25,13 @@
 ###
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nayetdet&theme=react&hide_border=true" alt=" stats graph"  />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nayetdet&theme=react&hide_border=true" alt="stats graph"  />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nayetdet&theme=react&hide_border=true" alt="streak graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nayetdet&theme=react&show_icons=true&hide_border=true&layout=compact" alt="languages graph"  />
 </div>
 
 ###
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/nayetdet/nayetdet/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/nayetdet/nayetdet/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/nayetdet/nayetdet/output/pacman-contribution-graph.svg">
-</picture>
+<img src="https://raw.githubusercontent.com/nayetdet/nayetdet/output/snake.svg" alt="Snake animation" />
 
 ###
