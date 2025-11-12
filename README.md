@@ -1,9 +1,3 @@
-<div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=nayetdet.nayetdet&"  />
-</div>
-
-###
-
 <h1 align="center">🧑‍💻 João Pedro Moreira</h1>
 
 ###
