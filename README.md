@@ -43,12 +43,8 @@
 ###
 
 <div align="center">
-  <div>
-    <img src="https://github-readme-stats.vercel.app/api?username=nayetdet&theme=react&show_icons=true&hide_border=true" height="150" alt="stats graph" />
-  </div>
-  <div>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nayetdet&theme=react&show_icons=true&hide_border=true&layout=compact" height="150" alt="languages graph" />
-  </div>
+  <img src="https://github-readme-stats.vercel.app/api?username=nayetdet&theme=react&show_icons=true&hide_border=true" height="150" alt="stats graph" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nayetdet&theme=react&show_icons=true&hide_border=true&layout=compact" height="150" alt="languages graph" />
 </div>
 
 ###
