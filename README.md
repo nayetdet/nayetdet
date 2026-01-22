@@ -3,6 +3,13 @@
 ###
 
 <div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nayetdet&theme=react&show_icons=true&hide_border=true&layout=compact" height="150" alt="languages graph" />
+  <img src="https://github-readme-stats.vercel.app/api?username=nayetdet&theme=react&show_icons=true&hide_border=true" height="150" alt="stats graph" />
+</div>
+
+###
+
+<div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="60" alt="java logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="60" alt="spring logo"  />
@@ -39,11 +46,3 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg" height="60" alt="nginx logo"  />
 </div>
-
-###
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nayetdet&theme=react&show_icons=true&hide_border=true&layout=compact" height="150" alt="languages graph" />
-  <img src="https://github-readme-stats.vercel.app/api?username=nayetdet&theme=react&show_icons=true&hide_border=true" height="150" alt="stats graph" />
-</div>
-
