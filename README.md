@@ -47,12 +47,3 @@
   <img src="https://github-readme-stats.vercel.app/api?username=nayetdet&theme=react&show_icons=true&hide_border=true" height="150" alt="stats graph" />
 </div>
 
-###
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/nayetdet/nayetdet/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/nayetdet/nayetdet/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/nayetdet/nayetdet/output/pacman-contribution-graph.svg">
-</picture>
-
-###
