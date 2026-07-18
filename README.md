@@ -9,6 +9,6 @@
 ## GitHub Stats
 
 <div align="center">
-  <img src="https://github-stats-extended-nayetdet.vercel.app/api/top-langs/?username=nayetdet&theme=material-palenight&show_icons=true&hide_border=true&layout=compact" height="150" alt="Most Used Languages" />
-  <img src="https://github-stats-extended-nayetdet.vercel.app/api?username=nayetdet&theme=material-palenight&show_icons=true&hide_border=true" height="150" alt="GitHub Stats" />
+  <img src="https://github-stats-extended-nayetdet.vercel.app/api/top-langs/?username=nayetdet&theme=one_dark_pro&show_icons=true&hide_border=true&layout=compact" height="150" alt="Most Used Languages" />
+  <img src="https://github-stats-extended-nayetdet.vercel.app/api?username=nayetdet&theme=one_dark_pro&show_icons=true&hide_border=true" height="150" alt="GitHub Stats" />
 </div>
