@@ -1,11 +1,5 @@
 <h2 align="center">João Pedro Moreira</h2>
 
-<p align="center">
-  Full Stack Developer
-</p>
-
-<hr>
-
 ## Tech Stack
 
 <p align="center">
@@ -13,8 +7,6 @@
     <img src="https://go-skill-icons.vercel.app/api/icons?i=java,spring,python,fastapi,javascript,typescript,react,nextjs,html,css,tailwind,postgresql,mysql,mongodb,redis,docker,kubernetes,nginx,aws,terraform,ansible,git,github&theme=dark&perline=8" alt="Tech Stack" />
   </a>
 </p>
-
-<hr>
 
 ## GitHub Stats
 
