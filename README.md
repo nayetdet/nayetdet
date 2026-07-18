@@ -1,3 +1,11 @@
+<h2 align="center">João Pedro Moreira</h2>
+
+<p align="center">
+  Full Stack Developer
+</p>
+
+<hr>
+
 ## Tech Stack
 
 <p align="center">
@@ -6,7 +14,7 @@
   </a>
 </p>
 
----
+<hr>
 
 ## GitHub Stats
 
