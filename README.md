@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,spring,python,fastapi,flask,javascript,typescript,nodejs,react,nextjs,html,css,sass,tailwind,postgresql,mysql,mongodb,redis,rabbitmq,kafka,docker,kubernetes,nginx,aws,terraform,ansible,githubactions,git&theme=dark&perline=8" alt="Technologies and tools I work with" />
+    <img src="https://skillicons.dev/icons?i=java,spring,python,flask,fastapi,javascript,typescript,nodejs,react,nextjs,html,css,sass,tailwind,postgresql,mysql,mongodb,redis,rabbitmq,kafka,docker,kubernetes,nginx,aws,terraform,ansible,githubactions,git&theme=dark&perline=8" alt="Technologies and tools I work with" />
   </a>
 </p>
 
